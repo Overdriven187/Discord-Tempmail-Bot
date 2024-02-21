@@ -12,6 +12,6 @@
 for support please use the following:
 ---
 [AI](https://chat.openai.com)
----
+
 [Google](https://www.google.com)
 
