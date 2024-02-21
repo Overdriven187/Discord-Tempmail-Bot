@@ -8,7 +8,7 @@
 ### 2. Run “npm install”.
 ### 3. As a final step, run “node .” out of.
 
-#SUPPORT
+# SUPPORT
 for support please use the following:
 chat.openai.com
 google.com
