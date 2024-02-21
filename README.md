@@ -10,5 +10,5 @@
 
 # SUPPORT
 for support please use the following:
-## [AI](chat.openai.com)
-## [Google](google.com)
+## (AI)[chat.openai.com]
+## (Google)[google.com]
